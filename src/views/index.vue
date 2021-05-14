@@ -22,7 +22,7 @@
         userData: {
           name: '邢明强',
           sex: 0,
-          headImage: 'http://image.hjrfw.com/414ad016fec19fd1031b6671ee90c3c.jpg',
+          headImage: 'https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fpic2.zhimg.com%2F50%2Fv2-9f4a056949fe8ea72383b0bc75c058fd_hd.jpg&refer=http%3A%2F%2Fpic2.zhimg.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1623570918&t=cd3150a737baebff636cee39dfc91596',
           phone: '17323270315',
           interviewPosition: 'web前端',
         }
